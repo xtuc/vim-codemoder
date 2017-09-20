@@ -13,3 +13,9 @@ set formatprg=/opt/vim-codemoder/bin
 ```
 
 You can then select some text and hit `gq`.
+
+### Configuration
+
+For the moment there is no real configuration. `babel-plugin-meaningful-logs` is harded [here](https://github.com/xtuc/vim-codemoder/blob/master/src/index.js#L6).
+
+PR are welcomed :)
